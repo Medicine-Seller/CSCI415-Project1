@@ -1,6 +1,8 @@
 # CSCI415-Project1
 
-RSA Encryption using mini-gmp: https://github.com/vfonov/cork/blob/master/contrib/gmp-6.1.2/mini-gmp/mini-gmpxx.h
+This project uses mini-gmp: https://github.com/vfonov/cork/blob/master/contrib/gmp-6.1.2/mini-gmp/mini-gmpxx.h
+ 
+RSA Encryption & Decryption
 
 **Output**
 
